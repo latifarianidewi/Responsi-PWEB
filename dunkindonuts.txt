@@ -1,0 +1,5 @@
+x|x|Cappuccino|1|Cappuccino|1|hallo
+x|x|Cappuccino|1|Cappuccino|1|hallo
+p|p|Almond|1|Cappuccino|1|hai
+||Mango|1|Vanilla|1|.
+Latifa|Lombok|Almond|2|Cappuccino|1|halo
